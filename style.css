@@ -1,0 +1,15 @@
+.title1 {
+    font-size: 100px;
+    color: aliceblue;
+    font-family: Courier New;
+    Font-weight: bold;
+}   
+.title2{
+    font-size: 50px;
+    color: aliceblue;
+    Text-decoration: underline;
+}
+.title3{
+    font-size:  25px;
+    Text-decoration: underline;
+}
